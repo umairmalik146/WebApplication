@@ -1,0 +1,28 @@
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.deps.json
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.json
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.dev.json
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.pdb
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csprojAssemblyReference.cache
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfo.cs
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\Zeeshan\Desktop\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.pdb
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.deps.json
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.json
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.dev.json
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.pdb
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csprojAssemblyReference.cache
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cache
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cs
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfo.cs
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.dll
+C:\Users\UMAIR\Downloads\WebApplication (1)\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.pdb
